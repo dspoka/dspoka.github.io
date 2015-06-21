@@ -3,6 +3,7 @@ layout: post
 title:  "19th Century Crowdsourcing"
 date:   2015-06-16 23:15:38
 categories: jekyll update
+comments: True
 ---
 
 How would you map the ocean's currents?
@@ -19,7 +20,7 @@ The three types of currents formed are coastal, surface ocean and the Global Con
 
 This means that it is the surface ocean currents that need to be mapped.
 
-Immediately my mind jumps to a network of ocean buoys with sensors all communicating with some satellite. 
+Immediately my mind jumps to a network of ocean buoys with sensors, a rasberry pi that are all communicating with some satellites flying high in the exosphere...
 
 But how were the first comprehensive maps of ocean currents made over 150 years ago?
 
@@ -30,6 +31,16 @@ In 1825, 19 year old Matthew Fontaine Maury joined the United States Navy as a m
 **The Data:**
 
 (Confused) with the lack of charts in his organization he put to use thousands of old logbooks from Navy ships. These logs contained records of dates, locations, directions and speeds of the wind, and the course of the ships. Immediately he saw the value of these records and began a tediuos process of compiling. He saw that the way the ships would adjust their course was a result of them drifting because of the currents. In 1847 he published his findings in book Wind and Current Chart of the North Atlantic. His mapped currents allowed ships to travel much faster through the open waters.
+
+<a href="http://www.dspoka.github.i/assets/bottle_learning_maury_map1.jpg">
+	<img src="../../../../../assets/bottle_learning_maury_map1.jpg" style="width: 243.333px;"/>
+</a>
+<a href="http://www.dspoka.github.i/assets/bottle_learning_maury_map2.jpg">
+	<img src="../../../../../assets/bottle_learning_maury_map2.jpg" style="width: 243.333px;"/>
+</a>
+<a href="http://www.dspoka.github.i/assets/bottle_learning_maury_map3.jpg">
+	<img src="../../../../../assets/bottle_learning_maury_map3.jpg" style="width: 243.333px;"/>
+</a>
 
 **Gathering More Data:**
 
@@ -42,18 +53,21 @@ It seems fitting that the first entry to my blog about humans and technology has
 Due to Maury's contributions to his newly formed field he earned himself the nickname "Pathfinder of the Seas". 
 
 
-![Maury Map 1]({{ dspoka.gitbub.io }}/assets/bottle_learning_maury_map1.jpg)
-![Maury Map 2]({{ dspoka.gitbub.io }}/assets/bottle_learning_maury_map2.jpg)
-![Maury Map 3]({{ dspoka.gitbub.io }}/assets/bottle_learning_maury_map3.jpg)
+
+
 ![Maury Statue]({{ dspoka.gitbub.io }}/assets/bottle_learning_maury_statue.jpg)
 
 \- Daniel
 
-Resources:
+**Resources:**
 
-http://oceanservice.noaa.gov/education/tutorial_currents/welcome.html
-http://www.divediscover.whoi.edu/history-ocean/maury.html
-http://www.seasky.org/ocean-exploration/ocean-explorers-matthew-maury.html
-https://en.wikipedia.org/wiki/Matthew_Fontaine_Maury
-http://oceanmotion.org/html/background/timeline1800.htm
+<a href="http://oceanservice.noaa.gov/education/tutorial_currents/welcome.html"> Ocean Service Currents Tutorial</a>
+<br>
+<a href="http://www.divediscover.whoi.edu/history-ocean/maury.html"> Dive Discover</a>
+<br>
+<a href="http://www.seasky.org/ocean-exploration/ocean-explorers-matthew-maury.html"> Sea Sky </a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Matthew_Fontaine_Maury">Wiki Matthew Maury</a>
+<br>
+<a href="http://oceanmotion.org/html/background/timeline1800.html"> Ocean Motion Timeline</a>
 

@@ -1,0 +1,1155 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fact",
+				"factNumber"
+			],
+			[
+				"get",
+				"getPolitifact"
+			],
+			[
+				"st",
+				"strip_tags"
+			],
+			[
+				"tag",
+				"tag"
+			],
+			[
+				"read",
+				"readabilityURL"
+			],
+			[
+				"case",
+				"caseIssue"
+			],
+			[
+				"open",
+				"openCSV"
+			],
+			[
+				"object",
+				"objectToPass"
+			],
+			[
+				"super",
+				"superClassName"
+			],
+			[
+				"method",
+				"methodName"
+			],
+			[
+				"obje",
+				"objectName"
+			],
+			[
+				"cur",
+				"currentClassName"
+			],
+			[
+				"tempM",
+				"tempMember"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"curre",
+				"currentClassInfo"
+			],
+			[
+				"temp",
+				"tempVariable"
+			],
+			[
+				"iden",
+				"identifier_1"
+			],
+			[
+				"siz",
+				"sizeToAllocate"
+			],
+			[
+				"class",
+				"classToFind"
+			],
+			[
+				"objec",
+				"objectClassName"
+			],
+			[
+				"tempc",
+				"tempClassToFind"
+			],
+			[
+				"curr",
+				"currentLabel"
+			],
+			[
+				"exp",
+				"expression_list"
+			],
+			[
+				"iter",
+				"iterExpression"
+			],
+			[
+				"metho",
+				"Method"
+			],
+			[
+				"tempMe",
+				"tempMember"
+			],
+			[
+				"current",
+				"currentMethodInfo"
+			],
+			[
+				"eax",
+				"eax"
+			],
+			[
+				"curen",
+				"currentMethodName"
+			],
+			[
+				"cure",
+				"currentMethodName"
+			],
+			[
+				"sent",
+				"sentTokens"
+			],
+			[
+				"tempCl",
+				"tempClassToFind"
+			],
+			[
+				"Bas",
+				"basetype"
+			],
+			[
+				"tempCla",
+				"tempClassToFind"
+			],
+			[
+				"currentCla",
+				"currentClassTable"
+			],
+			[
+				"tempCLa",
+				"tempClassTable"
+			],
+			[
+				"tempcl",
+				"tempClassTable"
+			],
+			[
+				"local",
+				"localVariable"
+			],
+			[
+				"vari",
+				"variableinfo"
+			],
+			[
+				"curren",
+				"currentClassName"
+			],
+			[
+				"baste",
+				"basetype"
+			],
+			[
+				"baset",
+				"basetype"
+			],
+			[
+				"Varia",
+				"VariableTable"
+			],
+			[
+				"Vara",
+				"VariableTable"
+			],
+			[
+				"members",
+				"members"
+			],
+			[
+				"methods",
+				"methods"
+			],
+			[
+				"noun",
+				"nounPhrase"
+			],
+			[
+				"nou",
+				"nounPhrase1"
+			],
+			[
+				"tops",
+				"topScore2"
+			],
+			[
+				"top",
+				"topScore1"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"max",
+				"maxScore"
+			],
+			[
+				"list",
+				"listNounPhrasesSynonyms"
+			],
+			[
+				"listnoun",
+				"listNounPhrasesSynonyms"
+			],
+			[
+				"nounPhra",
+				"nounPhrase1"
+			],
+			[
+				"syn",
+				"synonym_comparator"
+			],
+			[
+				"word",
+				"wordSynonyms"
+			],
+			[
+				"all",
+				"allNounPhrases"
+			],
+			[
+				"make",
+				"makePcfg"
+			],
+			[
+				"sen",
+				"sentence"
+			],
+			[
+				"OK",
+				"OKGREEN"
+			],
+			[
+				"score",
+				"scoreToBeat"
+			],
+			[
+				"lem",
+				"lemma_names"
+			],
+			[
+				"lemm",
+				"lemmatize"
+			],
+			[
+				"rid",
+				"ridStopWordsSentences"
+			],
+			[
+				"senten",
+				"sentences"
+			],
+			[
+				"ex",
+				"expand_contractions"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"number",
+				"number"
+			],
+			[
+				"pro",
+				"production"
+			],
+			[
+				"prd",
+				"production"
+			],
+			[
+				"pcf",
+				"pcfgProduction"
+			],
+			[
+				"singl",
+				"singleRule"
+			],
+			[
+				"maxtemp",
+				"maxtempm"
+			],
+			[
+				"num",
+				"numberMean"
+			],
+			[
+				"para",
+				"parameterMean"
+			],
+			[
+				"maxwsp",
+				"maxwspdm"
+			],
+			[
+				"maxdewp",
+				"maxdewpti"
+			],
+			[
+				"maxdew",
+				"maxdewptm"
+			],
+			[
+				"meanwind",
+				"meanwindspdi"
+			],
+			[
+				"meanpres",
+				"meanpressurei"
+			],
+			[
+				"snow",
+				"snowfalli"
+			],
+			[
+				"preci",
+				"precipi"
+			],
+			[
+				"prec",
+				"precipm"
+			],
+			[
+				"minwspd",
+				"minwspdm"
+			],
+			[
+				"maxwspd",
+				"maxwspdi"
+			],
+			[
+				"minpres",
+				"minpressurei"
+			],
+			[
+				"maxpres",
+				"maxpressurei"
+			],
+			[
+				"maxpre",
+				"maxpressurem"
+			],
+			[
+				"mind",
+				"mindewpti"
+			],
+			[
+				"mindew",
+				"mindewptm"
+			],
+			[
+				"minte",
+				"mintempi"
+			],
+			[
+				"mintem",
+				"mintempm"
+			],
+			[
+				"maxte",
+				"maxtempi"
+			],
+			[
+				"meanpre",
+				"meanpressurei"
+			],
+			[
+				"meande",
+				"meandewpti"
+			],
+			[
+				"meant",
+				"meantempi"
+			],
+			[
+				"meantem",
+				"meantempm"
+			],
+			[
+				"snowfall",
+				"snowfallm"
+			],
+			[
+				"mean",
+				"meanTempF"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border",
+				"border-left-style"
+			],
+			[
+				"T_clo",
+				"T_CLOSEPAREN"
+			],
+			[
+				"status",
+				"statusFact"
+			],
+			[
+				"eva",
+				"evaluateVector"
+			],
+			[
+				"print",
+				"printVector"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"lan",
+				"lastNumberValue"
+			],
+			[
+				"T_E",
+				"T_EOF"
+			],
+			[
+				"U",
+				"U"
+			],
+			[
+				"lin",
+				"lineNum"
+			],
+			[
+				"set",
+				"setFirstToken"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"_y",
+				"_y"
+			],
+			[
+				"_end",
+				"_endHighlightCoordinateX"
+			],
+			[
+				"_start",
+				"_startHighlightCoordinateX"
+			],
+			[
+				"_e",
+				"_endHighlightCoordinateY"
+			],
+			[
+				"_st",
+				"_startHighlightCoordinateY"
+			],
+			[
+				"end",
+				"_endHighlightCoordinateY"
+			],
+			[
+				"star",
+				"_startHighlightCoordinateX"
+			],
+			[
+				"token",
+				"tokenToString"
+			],
+			[
+				"line",
+				"lineNum"
+			],
+			[
+				"next",
+				"nextToken"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"T_M",
+				"T_M"
+			],
+			[
+				"T_e",
+				"T_EQUALS"
+			],
+			[
+				"T_",
+				"T_MULTIPLY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"visib",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"brackethighlighter",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bracket high",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"",
+				"BracketHighlighter: Enable Debug Mode"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"div",
+				"Package Control: Discover Packages"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"highligher",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"alignmen",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dspoka/Desktop/dspoka.github.io",
+		"/Users/dspoka/Desktop/dspoka.github.io/_includes",
+		"/Users/dspoka/Desktop/dspoka.github.io/_layouts",
+		"/Users/dspoka/Desktop/dspoka.github.io/_posts",
+		"/Users/dspoka/Desktop/dspoka.github.io/assets"
+	],
+	"file_history":
+	[
+		"/Users/dspoka/Desktop/dspoka.github.io/_posts/2015-06-15-bottle-learning.markdown",
+		"/Users/dspoka/Desktop/dspoka.github.io/_includes/comments.html",
+		"/Users/dspoka/Desktop/dspoka.github.io/_layouts/default.html",
+		"/Users/dspoka/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/dspoka/Desktop/dspoka.github.io/assets/maury_map.jpg",
+		"/Users/dspoka/Desktop/Afact/factPolitifact.py",
+		"/Users/dspoka/Desktop/flaskAdmin/auth/reader.py",
+		"/Users/dspoka/Desktop/supreme-court/test.py",
+		"/Users/dspoka/Desktop/sammy.html",
+		"/Users/dspoka/Desktop/SupremeCourtNLP/SCDB_justice.csv",
+		"/Users/dspoka/Desktop/word2vec.py",
+		"/Users/dspoka/Desktop/questions-words.txt-old",
+		"/Users/dspoka/Desktop/numpyTutorial.py",
+		"/Users/dspoka/Desktop/Project62/codegeneration.cpp",
+		"/Users/dspoka/Desktop/Project6/tests/18.good.lang.s",
+		"/Users/dspoka/Desktop/codegeneration.cpp",
+		"/Users/dspoka/Desktop/Project6/main.cpp",
+		"/Users/dspoka/Desktop/Project6/tests/test.test",
+		"/Users/dspoka/Desktop/Project6/tests/12.good.lang.s",
+		"/Users/dspoka/Desktop/Project6/Makefile",
+		"/Users/dspoka/Desktop/Project6/tests/10.good.lang.s",
+		"/Users/dspoka/Desktop/Project6/tests/10.good.lang",
+		"/Users/dspoka/Desktop/Project6/typecheck.cpp",
+		"/Users/dspoka/Desktop/Project6/tests/7.good.lang.s",
+		"/Users/dspoka/Desktop/Project6/tests/8.good.lang",
+		"/Users/dspoka/Desktop/Project6/tests/6.good.lang",
+		"/Users/dspoka/Desktop/Project6/tests/6.bad.lang.s",
+		"/Users/dspoka/Desktop/Project6/codegeneration.cpp",
+		"/Users/dspoka/Desktop/Project6/tests/6.good.lang.s",
+		"/Users/dspoka/Desktop/Project 5/tests/11.good.lang",
+		"/Users/dspoka/Desktop/Project 5/tests/25.good.lang",
+		"/Users/dspoka/Desktop/Project 5/tests/test.test",
+		"/Users/dspoka/Desktop/Project 5/tests/10.good.lang",
+		"/Users/dspoka/Desktop/Project 5/Makefile",
+		"/Users/dspoka/Desktop/Project 5/tests/20.good.lang",
+		"/Users/dspoka/Desktop/Project 5/tests/14.good.lang",
+		"/Users/dspoka/Desktop/Project 5/tests/12.good.lang",
+		"/Users/dspoka/Desktop/Project 5/tests/0.good.lang",
+		"/Users/dspoka/Desktop/typecheck40Tests",
+		"/Users/dspoka/Desktop/Project 5/tests/1.good.lang",
+		"/Users/dspoka/Desktop/pennPCFG.py",
+		"/Users/dspoka/Desktop/reader.py",
+		"/Users/dspoka/Desktop/Afact/Website/Afactio/index.html",
+		"/Users/dspoka/Desktop/Afact/Website/Afactio/css/grayscale.css",
+		"/Users/dspoka/Desktop/Afact/Website/Afactio/fonts/glyphicons-halflings-regular.woff",
+		"/Users/dspoka/Desktop/Afact/NLP/Brian Williams Transcript",
+		"/Users/dspoka/Desktop/afact-Database/afact/models.py",
+		"/Users/dspoka/Desktop/afact-Database/afact/afact/models.py",
+		"/Users/dspoka/Desktop/Project4/parser.y",
+		"/Users/dspoka/Desktop/Project 4/lexer.l",
+		"/Users/dspoka/Desktop/MicrosoftNgram-1-2.03/setup_1.03.py",
+		"/Users/dspoka/Desktop/OgChallenge/233.csv",
+		"/Users/dspoka/Desktop/NLTKCheatSheet.py",
+		"/Users/dspoka/Desktop/Compilers Project 3/Makefile",
+		"/Users/dspoka/Desktop/Compilers Project 3/lexer.l",
+		"/Users/dspoka/Desktop/Compilers Project 3/parser.y",
+		"/Users/dspoka/Desktop/Afact/NLP/Nalala.txt",
+		"/Users/dspoka/Desktop/Afact/NLP/textnltk.py",
+		"/Users/dspoka/Desktop/sherlockWeather.py",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/js/background.js",
+		"/Users/dspoka/Desktop/Compilers Project 3/parser.output",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/css/buttons.css",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/js/jqueryHighlight.js",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/js/buttons.js",
+		"/Users/dspoka/Desktop/BarclaysAssumptions.txt",
+		"/Users/dspoka/Desktop/BarclaysAssumptions",
+		"/Users/dspoka/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/dspoka/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/dspoka/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/dspoka/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/js/index.js",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/css/inject.css",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/manifest.json",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/html/iframe/sidebar.html",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/README.md",
+		"/Users/dspoka/Desktop/Compilers/Project 2/tests/11.good.calctest",
+		"/Users/dspoka/Desktop/Compilers/Project 2/tests/3.bad.calc",
+		"/Users/dspoka/Desktop/Compilers/Project 2/output.txt",
+		"/Users/dspoka/Desktop/Compilers/Project 2/calculator.cpp",
+		"/Users/dspoka/Desktop/Compilers/Project 2/tests/15.eval.calc",
+		"/Users/dspoka/Desktop/Compilers/Project 2/README.txt",
+		"/Users/dspoka/Desktop/spokoyny.me/js/jquery.easing.min.js",
+		"/Users/dspoka/Desktop/google-material-style-checkbox-css-only/license.txt",
+		"/Users/dspoka/Desktop/google-material-style-checkbox-css-only/README.txt",
+		"/Users/dspoka/Desktop/google-material-style-checkbox-css-only/css/reset.css",
+		"/Users/dspoka/Desktop/google-material-style-checkbox-css-only/css/style.css",
+		"/Users/dspoka/Desktop/google-material-style-checkbox-css-only/js/index.js",
+		"/Users/dspoka/Desktop/google-material-style-checkbox-css-only/js/prefixfree.min.js",
+		"/Users/dspoka/Desktop/google-material-style-checkbox-css-only/js/modernizr.js",
+		"/Users/dspoka/Desktop/Personal Website/stylesheet.css",
+		"/Users/dspoka/Desktop/Personal Website/index.html",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/images/icon.png",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/dist/css/bootstrap.css",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/font-awesome-4.2.0/css/font-awesome.css",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/font-awesome-buttons/index.html",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/font-awesome-buttons/css/style.css",
+		"/Users/dspoka/Desktop/stylesheet.css",
+		"/Users/dspoka/Desktop/index.html",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/html/background.html",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/css/base.css",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/js/inject.js",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/html/iframe/icon.html",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/js/iframe/icon.js",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/html/popup.html",
+		"/Users/dspoka/Desktop/Afact/factApi/factapi/factapi/api.py",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/js/iframe/sidebar.js",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/css/normalize.css",
+		"/Users/dspoka/Desktop/Afact/sautinExtension/chromeextension/css/style.css",
+		"/Users/dspoka/bonnobo",
+		"/Users/dspoka/Sites/index.php",
+		"/Users/dspoka/words2.txt",
+		"/Users/dspoka/wget-log",
+		"/Users/dspoka/words.txt",
+		"/Users/dspoka/q.a",
+		"/Users/dspoka/pythonTest.py",
+		"/Users/dspoka/sudo",
+		"/Users/dspoka/Desktop/CS 290B/gradr/test/fixtures/assignments.yml",
+		"/Users/dspoka/Desktop/CS 290B/gradr/test/fixtures/builds.yml",
+		"/Users/dspoka/Desktop/CS 290B/gradr/config/database.yml",
+		"/Users/dspoka/Desktop/CS 290B/gradr/app/controllers/builds_controller.rb",
+		"/Users/dspoka/Desktop/CS 290B/gradr/funkload-demo/simple/html/test_simple-20141210T173437/index.rst",
+		"/Users/dspoka/Desktop/CS 130A Code/Programming2/test_prog2.sh",
+		"/Users/dspoka/Desktop/CS 130A Code/Programming2/README",
+		"/Users/dspoka/Desktop/CS 290B/gradr/funkload-demo/simple/simple-test.xml",
+		"/Users/dspoka/Desktop/CS 290B/gradr/funkload-demo/simple/simple-test.log",
+		"/Users/dspoka/Desktop/CS 130A Code/Programming2/myOutput6.txt",
+		"/Users/dspoka/Desktop/CS 130A Code/Programming2/standard_output6.txt",
+		"/Users/dspoka/Desktop/CS 130A Code/Programming2/compare.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Library/Python/2.7/site-packages,<open folders>",
+			"/Library/Python/2.7/site-packages",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ys",
+			"compil",
+			"compile",
+			"log",
+			"leg",
+			"contri",
+			"print",
+			"domain",
+			"\\$\\@\\$([^\\$]|$[^\\@:]|$@[^\\$:])*\\:",
+			"\\$\\@\\$([^\\$]|$[^\\@:]|$@[^\\$:])\\:",
+			"\\$\\@\\$[^\\$][^\\@][^\\$].*?\\:",
+			"\\$\\@\\$.*?\\:",
+			"XXX([^X][^X][^x]*?)\\:",
+			"XXX([^X][^X][^X]*?)\\:",
+			"XXX[^X][^X][^x].*?\\:",
+			"XXX.*?[^X][^X][^x]\\:",
+			"XXX.*?\\:",
+			"XXX",
+			"\\$\\@\\$",
+			"\\$\\@\\$.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?\\:",
+			"\\$\\@\\$.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?\\:",
+			"\\$\\@\\$.?.?.?.?.?.?.?.?.?.?.?.?.?.?\\:",
+			"\\$\\@\\$.?.?.?.?.?.?.?.?.?.?.?.?.?\\:",
+			"\\$\\@\\$.?.?.?.?.?.?.?.?.?.?.?.?\\:",
+			"\\$\\@\\$.*?\\:",
+			"\\$\\@\\$.............................\\:",
+			"\\$\\@\\$............................\\:",
+			"\\$\\@\\$...........................\\:",
+			"\\$\\@\\$..........................\\:",
+			"\\$\\@\\$.........................\\:",
+			"\\$\\@\\$........................\\:",
+			"\\$\\@\\$......................\\:",
+			"\\$\\@\\$.....................\\:",
+			"\\$\\@\\$....................\\:",
+			"\\$\\@\\$...................\\:",
+			"\\$\\@\\$..................\\:",
+			"\\$\\@\\$.................\\:",
+			"\\$\\@\\$................\\:",
+			"\\$\\@\\$...............\\:",
+			"\\$\\@\\$..............\\:",
+			"\\$\\@\\$.............\\:",
+			"\\$\\@\\$............\\:",
+			"\\$\\@\\$...........\\:",
+			"\\$\\@\\$..........\\:",
+			"\\$\\@\\$.........\\:",
+			"\\$\\@\\$........\\:",
+			"\\$\\@\\$.......\\:",
+			"\\$\\@\\$......\\:",
+			"\\$\\@\\$.^20\\:",
+			"\\$\\@\\$(.)^20\\:",
+			"\\$\\@\\$(.)20\\:",
+			"\\$\\@\\$.*\\:",
+			"\\$\\@\\$",
+			"\\$\\@$",
+			"\\$\\@\\$",
+			"argument",
+			"justice",
+			"\\)",
+			"\\n",
+			"note",
+			"phrase",
+			"\\n.*:",
+			".*:",
+			"malloc",
+			"assignmentnode",
+			"assignment",
+			"assignnode",
+			"malloc",
+			"print",
+			"apple",
+			"print",
+			"malloc",
+			"ifelse",
+			"constant",
+			"ifelse",
+			"while",
+			"ifelse",
+			"skip",
+			"nextlabel",
+			"nextLabel",
+			"ifelse",
+			"while",
+			"tempclasstofind",
+			"while",
+			"methodcall",
+			"callnode",
+			"methodcall",
+			"callnode",
+			"methodcall",
+			"callnode",
+			"call",
+			"add",
+			"callnode",
+			"call",
+			"methodcall",
+			"methodnode",
+			"method",
+			"newnode",
+			"method",
+			"print",
+			"newnode",
+			"methodnode",
+			"newnode",
+			"methodcall",
+			"newnode",
+			"malloc",
+			"new",
+			"newnode",
+			"methodcall",
+			"variablenode",
+			"variable",
+			"currentmethodinfo",
+			"variable",
+			"iter",
+			"assignment",
+			"memberaccess",
+			"methodcall",
+			"assignment",
+			"variable",
+			"variablea",
+			"variableaccess",
+			"variable",
+			"methodcall",
+			"method",
+			"methodcall",
+			"memberaccess",
+			"fucks",
+			"print"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"runtests.py"
+			],
+			[
+				"read",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/CS 290B/gradr/gradr-ui/gradr.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"getHollowCirclePath"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
