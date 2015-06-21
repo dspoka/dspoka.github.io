@@ -32,13 +32,13 @@ In 1825, 19 year old Matthew Fontaine Maury joined the United States Navy as a m
 
 (Confused) with the lack of charts in his organization he put to use thousands of old logbooks from Navy ships. These logs contained records of dates, locations, directions and speeds of the wind, and the course of the ships. Immediately he saw the value of these records and began a tediuos process of compiling. He saw that the way the ships would adjust their course was a result of them drifting because of the currents. In 1847 he published his findings in book Wind and Current Chart of the North Atlantic. His mapped currents allowed ships to travel much faster through the open waters.
 
-<a href="http://www.dspoka.github.io/assets/bottle_learning_maury_map1.jpg">
+<a href="http://dspoka.github.io/assets/bottle_learning_maury_map1.jpg">
 	<img src="../../../../../assets/bottle_learning_maury_map1.jpg" style="width: 243.333px;"/>
 </a>
-<a href="http://www.dspoka.github.io/assets/bottle_learning_maury_map2.jpg">
+<a href="http://dspoka.github.io/assets/bottle_learning_maury_map2.jpg">
 	<img src="../../../../../assets/bottle_learning_maury_map2.jpg" style="width: 243.333px;"/>
 </a>
-<a href="http://www.dspoka.github.io/assets/bottle_learning_maury_map3.jpg">
+<a href="http://dspoka.github.io/assets/bottle_learning_maury_map3.jpg">
 	<img src="../../../../../assets/bottle_learning_maury_map3.jpg" style="width: 243.333px;"/>
 </a>
 
