@@ -33,7 +33,7 @@ In 1825, 19 year old Matthew Fontaine Maury joined the United States Navy as a m
 
 **The Data:**
 
-Dissatisfied with the lack of charts in his Charts and Instruments organization he put to use thousands of old logbooks from Navy ships. These logs contained records of dates, locations, directions and speeds of the wind, and the course of the ships. Immediately he saw the value of these records and began a **tediuos** process of compiling. He saw that the way ships would adjust their course was to compensate for them drifting aside by currents. In 1847 he published his findings in book Wind and Current Chart of the North Atlantic. His mapped currents allowed ships to travel much faster through the open waters. 
+Dissatisfied with the lack of charts in his Charts and Instruments organization he put to use thousands of old logbooks from Navy ships. These logs contained records of dates, locations, directions and speeds of the wind, and the course of the ships. Immediately he saw the value of these records and began a **tedious** process of compiling. He saw that the way ships would adjust their course was to compensate for them drifting aside by currents. In 1847 he published his findings in book Wind and Current Chart of the North Atlantic. His mapped currents allowed ships to travel much faster through the open waters. 
 
 **Could elaborate—make very obvious how his comprehensive guides meant that ships could anticipate currents and drift, rather than retroactively correcting their courses and again reinventing the wheel on each journey.  i.e., “Maury’s guidebook offered unprecedented opportunities for improving navigation…”**
 
@@ -58,7 +58,7 @@ In 1853 Maury called for an international conference in Brussels, Belgium, to he
 
 **So What?:**
 
-It seems fitting that the first entry to my blog about humans and technology has no real **mention/descrition** of technology. It is a story of man **who followed his curiousity of nature** saw a problem, found a new use for existing information and established an industry standard in the process. Although now, we do use buoys with sensors it is important to be able to come up with the simple baseline solution.
+It seems fitting that the first entry to my blog about humans and technology has no real **mention/description** of technology. It is a story of man **who followed his curiosity of nature** saw a problem, found a new use for existing information and established an industry standard in the process. Although now, we do use buoys with sensors it is important to be able to come up with the simple baseline solution.
 
 **Elegant solution**
 Emphasize to find the simple, and maybe how thats very common in industry rn
