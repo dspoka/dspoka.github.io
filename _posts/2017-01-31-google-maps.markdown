@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Maps Magic"
-date:   2015-06-16 23:15:38
+date:   2017-01-31
 categories: jekyll update
 comments: True
 ---
