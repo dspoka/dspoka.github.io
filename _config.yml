@@ -4,7 +4,7 @@ email: daniel@spokoyny.me
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts on technology, intelligence and knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://Techknowledgence.com" # the base hostname & protocol for your site
+# url: "http://Techknowledgence.com" # the base hostname & protocol for your site
 twitter_username: dspoka
 github_username:  dspoka
 
